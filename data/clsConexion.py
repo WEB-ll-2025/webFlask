@@ -17,10 +17,10 @@ from data.clsDatos import clsDatos
 class clsConexion():
     # Declara las variables para la conexion
     # Recuerde cambiar la dirección y contraseña de su servidor
-    servidor = '127.0.0.1'
-    basedatos = 'prueba'
-    usuario = 'root'
-    contra = 'parda99*'
+    servidor = '40.90.233.26'
+    basedatos = 'flaskdb'
+    usuario = 'flaskuser'
+    contra = 'TuContraseñaSegura123'
 
     def __init__(self):
         pass
